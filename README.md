@@ -61,11 +61,11 @@ Si el value es mayor o igual a 50 o accuracy es menor o igual a 0.9, el suscript
 Copiar código
 Apagando las luces...
 Mensajes del Publicador:
-###Ejemplo
-####Suscriptor 
+### Ejemplo
+#### Suscriptor 
 ![suscriptor](https://github.com/user-attachments/assets/183c2c0f-2d64-4080-807e-e8ad50082c3e)
 
-####Publicador
+#### Publicador
 ![Publicador](https://github.com/user-attachments/assets/05ef447a-d909-4228-96b0-68f31710fab3)
 
 
